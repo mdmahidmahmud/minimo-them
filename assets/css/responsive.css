@@ -498,6 +498,7 @@
 
     .main-images-heading {
         width: 100%;
+        overflow: hidden;
     }
 
     .comment-area-container {
