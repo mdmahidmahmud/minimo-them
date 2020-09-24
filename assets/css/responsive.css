@@ -1,0 +1,852 @@
+/********************************************************/
+/* Max-Width 1200PX     *********************************/
+/********************************************************/
+@media (max-width: 1200px) {}
+
+
+/********************************************************/
+/* Min-Width 993PX     **********************************/
+/********************************************************/
+@media (min-width: 992px) {}
+
+
+
+/********************************************************/
+/* Max-Width 991PX     **********************************/
+/********************************************************/
+@media (max-width: 991px) {
+
+    /* 
+    ==============================
+     start-lifestyle-page
+    ================================
+    */
+    .container {
+        max-width: 100%;
+    }
+
+    .post-section-area-main {
+        width: 100%;
+    }
+
+    .images-heading-main {
+        width: 100%;
+    }
+
+    .main-images-heading {
+        width: 100%;
+    }
+
+    .comment-area-container {
+        width: 100%;
+    }
+
+    .footer-area {
+        width: 100%;
+    }
+
+    .mr-1 {
+        padding-right: 11px;
+    }
+
+    .ml-1 {
+        padding-left: 11px;
+    }
+
+    .header-right li a {
+        padding: 9px 17px;
+    }
+
+    .like-images h3 {
+        font-size: 19px;
+    }
+
+    /* 
+    ==============================
+     end-lifestyle-page
+    ================================
+    */
+    
+    
+    
+    /* 
+    ==============================
+     start-home-page
+    ================================
+    */
+    .post-section-main {
+        width: 100%;
+    }
+    .newsletter {
+        width: 100%;
+        overflow: hidden;
+    }
+    .single-post-main2 {
+        width: 100%;
+    }
+
+    /* 
+    ==============================
+     end-home-page
+    ================================
+    */
+    
+  
+}
+
+
+/********************************************************/
+/* Max-Width 767PX     **********************************/
+/********************************************************/
+@media (max-width: 767px) {
+
+    /* 
+    ==============================
+     start-lifestyle-page
+    ================================
+    */
+    .container {
+        max-width: 100%;
+    }
+
+    .header-main {
+        display: block;
+        margin: 14px 0px 44px 0px;
+    }
+
+    .post-section-area-main {
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .images-heading-main {
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .main-images-heading {
+        width: 100%;
+    }
+
+    .comment-area-container {
+        width: 100%;
+    }
+
+    .area-left {
+        width: 15%;
+    }
+
+    .area-right {
+        width: 100%;
+    }
+
+    .footer-left {
+        width: 100%;
+    }
+
+    .footer-area {
+        width: 100%;
+        display: block;
+    }
+
+    .like-main {
+        display: flex;
+    }
+
+    .like-images {
+        width: 33.33%;
+        padding: 22px;
+    }
+
+    .area {
+        display: flex;
+        margin-bottom: 50px;
+    }
+
+    .area-right h4 {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+
+    .area-left img {
+        width: 100%;
+        margin-left: 17px;
+    }
+
+    .area-right p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-right: 16px;
+    }
+
+    .area-right input {
+        width: 66%;
+        padding: 9px;
+        border-radius: 4px;
+        margin-top: 5px;
+        font-size: 12px;
+    }
+
+    .area-socal {
+        text-align: center;
+    }
+
+    .area-socal span {
+        margin-right: 5px;
+        font-size: 14px;
+    }
+
+    .footer-menu ul li a {
+        padding-right: 14px;
+        font-size: 14px;
+    }
+
+    .social-icon a {
+        padding: 6px;
+    }
+
+    .footer-right span {
+        font-size: 14px;
+        display: block;
+    }
+
+    .footer-right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-area-main {
+        padding: 30px 0px;
+        margin-top: 28px;
+    }
+
+    .footer-menu ul {
+        text-align: center;
+    }
+
+    .comment-area .commant2 {
+        margin-top: 22px;
+        margin-bottom: 26px;
+        margin-left: 23px;
+        font-size: 13px;
+    }
+
+    .like-images h3 {
+        font-size: 14px;
+        margin-bottom: 18px;
+        text-align: center;
+    }
+
+    .main-images-heading h3 {
+        font-size: 14px;
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    .like-main-images {
+        margin-top: 31px;
+        padding-top: 3px;
+    }
+
+    .main-heading-icon {
+        margin-top: 34px;
+        text-align: center;
+    }
+
+    .main-heading-icon span {
+        font-size: 14px;
+    }
+
+    .main-heading-icon a img {
+        padding-left: 6px;
+    }
+
+    .main-heading p {
+        font-size: 14px;
+        line-height: 26px;
+        margin-top: 9px;
+    }
+
+    .images-heading-main p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .images-main img {
+        margin-top: 20px;
+    }
+
+    .post-area-heading p {
+        font-size: 14px;
+        line-height: 27px;
+    }
+
+    .post-area-heading p span {
+        font-size: 13px;
+    }
+
+    .post-area-heading h2 {
+        font-size: 19px;
+        color: #626262;
+        margin: 8px 0px;
+    }
+
+    .post-area-heading span {
+        font-size: 13px;
+    }
+
+    .slider-main {
+        margin-bottom: 33px;
+    }
+
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-right {
+        width: 100%;
+    }
+
+    .header-right ul {
+        text-align: center;
+        float: inherit;
+    }
+
+    .header-right ul li a {
+        padding: 5px 0px;
+        font-size: 19px;
+        display: block;
+        border-bottom: 1px solid #000;
+    }
+
+    /* 
+    ==============================
+     end-lifestyle-page
+    ================================
+    */
+
+
+    /* 
+    ==============================
+     start-home-page
+    ================================
+    */
+
+    .footer-menu ul li {
+        float: inherit;
+    }
+
+    .post-section-main {
+        width: 100%;
+    }
+
+    .single-post {
+        display: block;
+    }
+
+    .newsletter {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .single-post-main2 {
+        width: 100%;
+        margin-top: 34px;
+    }
+
+    .single-post2 {
+        display: block;
+    }
+
+    .single-post-item {
+        width: 100%;
+    }
+
+    .post-item {
+        width: 100%;
+    }
+
+    .load-btn {
+        padding: 6px 19px;
+        font-size: 14px;
+    }
+
+    .post-item {
+        margin: 0px 0px;
+    }
+
+    .single-post-item {
+        margin: 0px 0px;
+    }
+
+    .post-articel span {
+        font-size: 14px;
+    }
+
+    .post-articel h1 {
+        font-size: 19px;
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+
+    .post-articel p {
+        font-size: 14px;
+        color: #626262;
+        line-height: 25px;
+    }
+
+    .post-articel input {
+        margin-top: 5px;
+    }
+
+    .single-post-main {
+        margin-top: 30px;
+    }
+
+    .single-post-item span {
+        font-size: 14px;
+        padding-top: 21px;
+    }
+
+    .single-post-item h2 {
+        font-size: 18px;
+    }
+
+    .single-post-item p {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-bottom: 29px;
+        line-height: 25px;
+    }
+
+    .newsletter h2 {
+        font-size: 18px;
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .newsletter-section {
+        padding: 28px 0px;
+    }
+
+    .icon-after:after {
+        content: '';
+        right: -4px;
+        bottom: 4px;
+    }
+
+    .item span {
+        font-size: 14px;
+        padding-top: 19px;
+    }
+
+    .item h2 {
+        font-size: 20px;
+        margin: 9px 0px;
+    }
+
+    .item p {
+        font-size: 14px;
+        margin-top: 13px;
+    }
+
+    .item {
+        margin-bottom: 40px;
+    }
+
+
+    /* 
+    ==============================
+     end-home-page
+    ================================
+    */
+
+
+}
+
+
+
+/********************************************************/
+/* Max-Width 576PX     **********************************/
+/********************************************************/
+@media (max-width: 576px) {
+
+    /* 
+    ==============================
+     start-lifestyle-page
+    ================================
+    */
+    .container {
+        max-width: 100%;
+    }
+
+    .header-main {
+        display: block;
+        margin: 14px 0px 44px 0px;
+    }
+
+    .post-section-area-main {
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .images-heading-main {
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .main-images-heading {
+        width: 100%;
+    }
+
+    .comment-area-container {
+        width: 100%;
+    }
+
+    .area-left {
+        width: 15%;
+    }
+
+    .area-right {
+        width: 100%;
+    }
+
+    .footer-left {
+        width: 100%;
+    }
+
+    .footer-area {
+        width: 100%;
+        display: block;
+    }
+
+    .like-main {
+        display: block;
+    }
+
+    .like-images {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .area {
+        display: flex;
+        margin-bottom: 50px;
+    }
+
+    .area-right h4 {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+
+    .area-left img {
+        width: 100%;
+        margin-left: 17px;
+    }
+
+    .area-right p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-right: 16px;
+    }
+
+    .area-right input {
+        width: 66%;
+        padding: 9px;
+        border-radius: 4px;
+        margin-top: 5px;
+        font-size: 12px;
+    }
+
+    .area-socal {
+        text-align: center;
+    }
+
+    .area-socal span {
+        margin-right: 5px;
+        font-size: 14px;
+    }
+
+    .footer-menu ul li a {
+        padding-right: 14px;
+        font-size: 14px;
+    }
+
+    .social-icon a {
+        padding: 6px;
+    }
+
+    .footer-right span {
+        font-size: 14px;
+        display: block;
+    }
+
+    .footer-right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-area-main {
+        padding: 30px 0px;
+        margin-top: 28px;
+    }
+
+    .footer-menu ul {
+        text-align: center;
+    }
+
+    .comment-area .commant2 {
+        margin-top: 22px;
+        margin-bottom: 26px;
+        margin-left: 23px;
+        font-size: 13px;
+    }
+
+    .like-images h3 {
+        font-size: 14px;
+        margin-bottom: 18px;
+        text-align: center;
+    }
+
+    .main-images-heading h3 {
+        font-size: 14px;
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    .like-main-images {
+        margin-top: 31px;
+        padding-top: 3px;
+    }
+
+    .main-heading-icon {
+        margin-top: 34px;
+        text-align: center;
+    }
+
+    .main-heading-icon span {
+        font-size: 14px;
+    }
+
+    .main-heading-icon a img {
+        padding-left: 6px;
+    }
+
+    .main-heading p {
+        font-size: 14px;
+        line-height: 26px;
+        margin-top: 9px;
+    }
+
+    .images-heading-main p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .images-main img {
+        margin-top: 20px;
+    }
+
+    .post-area-heading p {
+        font-size: 14px;
+        line-height: 27px;
+    }
+
+    .post-area-heading p span {
+        font-size: 13px;
+    }
+
+    .post-area-heading h2 {
+        font-size: 19px;
+        color: #626262;
+        margin: 8px 0px;
+    }
+
+    .post-area-heading span {
+        font-size: 13px;
+    }
+
+    .slider-main {
+        margin-bottom: 33px;
+    }
+
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-right {
+        width: 100%;
+    }
+
+    .header-right ul {
+        text-align: center;
+        float: inherit;
+    }
+
+    .header-right ul li a {
+        padding: 5px 0px;
+        font-size: 19px;
+        display: block;
+        border-bottom: 1px solid #000;
+    }
+
+    /* 
+    ==============================
+     end-lifestyle-page
+    ================================
+    */
+
+
+    /* 
+    ==============================
+     start-home-page
+    ================================
+    */
+
+    .footer-menu ul li {
+        float: inherit;
+    }
+
+    .post-section-main {
+        width: 100%;
+    }
+
+    .single-post {
+        display: block;
+    }
+
+    .newsletter {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .single-post-main2 {
+        width: 100%;
+        margin-top: 34px;
+    }
+
+    .single-post2 {
+        display: block;
+    }
+
+    .single-post-item {
+        width: 100%;
+    }
+
+    .post-item {
+        width: 100%;
+    }
+
+    .load-btn {
+        padding: 6px 19px;
+        font-size: 14px;
+    }
+
+    .post-item {
+        margin: 0px 0px;
+    }
+
+    .single-post-item {
+        margin: 0px 0px;
+    }
+
+    .post-articel span {
+        font-size: 14px;
+    }
+
+    .post-articel h1 {
+        font-size: 19px;
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+
+    .post-articel p {
+        font-size: 14px;
+        color: #626262;
+        line-height: 25px;
+    }
+
+    .post-articel input {
+        margin-top: 5px;
+    }
+
+    .single-post-main {
+        margin-top: 30px;
+    }
+
+    .single-post-item span {
+        font-size: 14px;
+        padding-top: 21px;
+    }
+
+    .single-post-item h2 {
+        font-size: 18px;
+    }
+
+    .single-post-item p {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-bottom: 29px;
+        line-height: 25px;
+    }
+
+    .newsletter h2 {
+        font-size: 18px;
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .newsletter-section {
+        padding: 28px 0px;
+    }
+
+    .icon-after:after {
+        content: '';
+        right: -4px;
+        bottom: 4px;
+    }
+
+    .item span {
+        font-size: 14px;
+        padding-top: 19px;
+    }
+
+    .item h2 {
+        font-size: 20px;
+        margin: 9px 0px;
+    }
+
+    .item p {
+        font-size: 14px;
+        margin-top: 13px;
+    }
+
+    .item {
+        margin-bottom: 40px;
+    }
+
+
+    /* 
+    ==============================
+     end-home-page
+    ================================
+    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
